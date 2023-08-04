@@ -1,11 +1,9 @@
 .home-container {
-	background-color: black;
 	height: 90vh;
 	display: flex;
 }
 
 .container-box-text {
-	background-color: antiquewhite;
 	width: 70%;
 	height: 100%;
 }
@@ -21,7 +19,6 @@
 .container-box-name h1 {
 	display: flex;
 	justify-content: center;
-	background-color: aliceblue;
 }
 
 .container-box-intro {
