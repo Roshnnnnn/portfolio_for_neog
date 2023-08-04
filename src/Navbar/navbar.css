@@ -1,0 +1,23 @@
+.container {
+	background-color: pink;
+	height: 5rem;
+	width: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-decoration: none;
+}
+
+.container-box {
+	padding: 20px;
+	text-decoration: none;
+	color: aqua;
+}
+
+.container-box2 {
+	display: flex;
+	list-style: none;
+	gap: 35px;
+	padding: 30px;
+	text-decoration: none;
+}
