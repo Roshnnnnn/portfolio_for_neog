@@ -6,15 +6,39 @@
 		"github": "https://replit.com/@RoshanYadav19/M-C-Q"
 	},
 	{
-		"title": "Project 1",
-		"description": "A CLI app built with nodeJS . You can send this to your friends and find out really knows you.",
-		"url": "https://replit.com/@RoshanYadav19/M-C-Q?embed=true",
-		"github": "https://replit.com/@RoshanYadav19/M-C-Q"
+		"title": "Project 2",
+		"description": "A CLI app built with nodeJS . You can send this to your friends and find out really knows about super hero.",
+		"url": "https://replit.com/@RoshanYadav19/superhero-1?embed=true",
+		"github": "https://replit.com/@RoshanYadav19/superhero-1"
 	},
 	{
-		"title": "Project 1",
-		"description": "A CLI app built with nodeJS . You can send this to your friends and find out really knows you.",
-		"url": "https://replit.com/@RoshanYadav19/M-C-Q?embed=true",
-		"github": "https://replit.com/@RoshanYadav19/M-C-Q"
+		"title": "Project 3",
+		"description": "It is a portfolio type app in which blog section is already added which is part of marks.",
+		"url": "https://portfolio1804.netlify.app",
+		"github": "https://github.com/Roshnnnnn/neogCamp"
+	},
+	{
+		"title": "Project 4",
+		"description": "This is a app in which you will get your words in pirate language.",
+		"url": "https://polite-pie-be54b1.netlify.app",
+		"github": "https://github.com/Roshnnnnn/pirate-talk"
+	},
+	{
+		"title": "Project 5",
+		"description": "This is a app in which you will get your words in minion language.",
+		"url": "https://minion-talkking.netlify.app",
+		"github": "https://github.com/Roshnnnnn/banana-talk"
+	},
+	{
+		"title": "Project 6",
+		"description": "Emoji world .",
+		"url": "https://emojiworldd.netlify.app/",
+		"github": "https://github.com/Roshnnnnn/emoji-world"
+	},
+	{
+		"title": "Project 7",
+		"description": "It will give you best movie suggestion.",
+		"url": "https://bestmoviesuggestion.netlify.app//",
+		"github": "https://github.com/Roshnnnnn/neog-mark-9"
 	}
 ]
